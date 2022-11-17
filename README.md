@@ -1,2 +1,2 @@
-# TimelineJS Workshop
-Workshop page for TimelineJS
+# TimelineJS Demo
+Before Silicon Valley timeline - demo page using TimelineJS
